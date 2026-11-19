@@ -1,4 +1,4 @@
 # firstgit-demo
 This is my  first git repository
 <br>
-Author - Abdul Samad
+Author - Abdul Samad (szabist)
